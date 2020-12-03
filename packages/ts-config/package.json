@@ -1,0 +1,21 @@
+{
+  "name": "ts-config",
+  "version": "1.0.0",
+  "description": "Package to share typescript configuration across modules in repo",
+  "author": "Alessandro Palumbo <apalumbo@byte-code.com>",
+  "homepage": "",
+  "license": "MIT",
+  "main": "lib/index.ts",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "peerDependencies": {
+    "typescript": "4.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
